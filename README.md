@@ -35,4 +35,4 @@ The core code of paper is provided here. 'reward_tax_based(time).py' can plot th
 <center><img src="img/picture.jpg" width="60%"></center>
 
 ## Contact
-Please email Huizhen Zhang(zhz943600@gmail.com) or [Jingrui Wang](https://scholar.google.com/citations?user=oiu-yTYAAAAJ&hl=zh-CN)(wangjingrui530@gmail.com)  for further questions.
+Please email Huizhen Zhang(zhz943600@gmail.com) or [Jingrui Wang](https://scholar.google.com/citations?user=oiu-yTYAAAAJ&hl=en)(wangjingrui530@gmail.com)  for further questions.
